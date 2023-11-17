@@ -1,0 +1,5 @@
+En base de datos he elegido una actividad de mysql en la que se crea una base de datos y unas tablas.
+Es la actividad que más representa la asignatura.
+En FOL he elegido un contrato de trabajo indefinido que tuve que hacer.Ya que la asignatura trata de eso.
+en Lenguaje de marcas he seleccionado un html de una tabla, ya que basicamente la asignatura se basa en hacer html.
+Y finalmente en sistemas informaticos he elegido el montaje de un ordenador que tuve que realizar.
